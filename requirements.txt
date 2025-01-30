@@ -1,0 +1,5 @@
+tensorflow
+streamlit
+nitk
+transformers
+nltk
